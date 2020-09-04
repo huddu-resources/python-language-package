@@ -1,3 +1,3 @@
 apt update
-apt install python3-pip
-apt install python-pip
+yes | apt install python3-pip
+yes | apt install python-pip
